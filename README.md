@@ -1,6 +1,6 @@
 # Car sharing
 This is a simple app 
-that representation the car shering.
+that representation the **Car Sharing**.
 
 ![img](carsharing.jpg)
 
